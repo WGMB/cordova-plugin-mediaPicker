@@ -48,12 +48,5 @@
     <source-file src="src/ios/DMCMediaPicker/FLAnimatedImage/FLAnimatedImageView.m"/>         
 
     <resource-file src="src/ios/DMCMediaPicker/dmcPicker.bundle"/>
-    <resource-file src="src/ios/DMCMediaPicker/en.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/zh-Hans.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/es.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/pt-BR.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/pt-PT.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/tr.lproj"/>
-    <resource-file src="src/ios/DMCMediaPicker/de.lproj"/>
   </platform>
 </plugin>

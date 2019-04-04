@@ -1,2 +1,5 @@
-"NSCameraUsageDescription" = "Este aplicativo requer acesso à câmera para tirar fotos.";
-"NSPhotoLibraryUsageDescription" = "Este aplicativo precisa acessar sua geleria de fotos para selecionar imagens.";
+"NSLocationWhenInUseUsageDescription" = "";
+"NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Bilder aufnehmen zu können.";
+"NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
+"NSPhotoLibraryAddUsageDescription" = "";
+"NSFaceIDUsageDescription" = "";

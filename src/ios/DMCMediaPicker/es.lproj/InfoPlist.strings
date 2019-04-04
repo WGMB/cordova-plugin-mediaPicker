@@ -3,3 +3,4 @@
 "NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
 "NSPhotoLibraryAddUsageDescription" = "";
 "NSFaceIDUsageDescription" = "";
+"NSCalendarsUsageDescription" = "";

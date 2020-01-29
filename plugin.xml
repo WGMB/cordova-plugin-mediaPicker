@@ -19,7 +19,7 @@
     </config-file>
     
     <framework src="src/android/build.gradle" custom="true" type="gradleReference"/>
-    <lib-file src="src/android/mediapicker-release.aar" />
+    <lib-file src="src/android/mediapicker2-release.aar" />
 
     <source-file src="src/android/MediaPicker.java" target-dir="src/com/dmc/mediaPickerPlugin"/>
     <source-file src="src/android/FileHelper.java" target-dir="src/com/dmc/mediaPickerPlugin"/>

@@ -1,4 +1,4 @@
-package com.dmc.mediaPickerPlugin;
+package com.dmcbig.mediapicker;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

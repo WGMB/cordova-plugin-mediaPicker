@@ -17,8 +17,7 @@
       <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
       <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     </config-file>
-        <framework src="build.gradle" custom="true" type="gradleReference" />
-    <resource-file src="mediapicker-release.aar" target="libs/mediapicker-release.aar" />
+    <lib-file src="mediapicker-release.aar" />
 
     <source-file src="src/android/MediaPicker.java" target-dir="src/com/dmc/mediaPickerPlugin"/>
     <source-file src="src/android/FileHelper.java" target-dir="src/com/dmc/mediaPickerPlugin"/>

@@ -6,7 +6,7 @@ repositories{
 }
 
 dependencies {
-   compile(name:'mediapicker-release', ext:'aar')
+   compile(name:'mediapicker2-release', ext:'aar')
 }
 
 android {

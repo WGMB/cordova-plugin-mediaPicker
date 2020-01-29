@@ -14,7 +14,7 @@
        specific language governing permissions and limitations
        under the License.
  */
-package com.dmc.mediaPickerPlugin;
+package com.dmcbig.mediapicker;
 
 import android.annotation.SuppressLint;
 import android.content.ContentUris;

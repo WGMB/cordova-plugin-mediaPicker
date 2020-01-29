@@ -9,7 +9,7 @@
   <platform name="android">
     <config-file parent="/*" target="res/xml/config.xml">
       <feature name="MediaPicker">
-        <param name="android-package" value="com.dmcbig.mediapicker.MediaPicker"/>
+        <param name="android-package" value="com.dmc.mediaPickerPlugin.MediaPicker"/>
       </feature>
     </config-file>
     <config-file parent="/*" target="AndroidManifest.xml"/>
@@ -19,7 +19,7 @@
     </config-file>
     <!--<framework src="com.dmcBig:mediapicker:+"/>-->
      <framework src="src/android/build.gradle" custom="true" type="gradleReference"/>
-    <lib-file src="src/android/mediapicker2-release.aar" /> 
+    <lib-file src="src/android/mediapicker-release.aar" /> 
 
     <source-file src="src/android/MediaPicker.java" target-dir="src/com/dmc/mediaPickerPlugin"/>
     <source-file src="src/android/FileHelper.java" target-dir="src/com/dmc/mediaPickerPlugin"/>

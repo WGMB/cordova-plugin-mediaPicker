@@ -11,10 +11,10 @@ import android.provider.MediaStore;
 import android.util.Base64;
 import android.util.Log;
 
-import com.dmcbig.mediapicker.PickerActivity;
-import com.dmcbig.mediapicker.PickerConfig;
-import com.dmcbig.mediapicker.TakePhotoActivity;
-import com.dmcbig.mediapicker.entity.Media;
+import com.dmc.mediaPickerPlugin.PickerActivity;
+import com.dmc.mediaPickerPlugin.PickerConfig;
+import com.dmc.mediaPickerPlugin.TakePhotoActivity;
+import com.dmc.mediaPickerPlugin.entity.Media;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;

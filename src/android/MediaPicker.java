@@ -11,7 +11,7 @@ import android.provider.MediaStore;
 import android.util.Base64;
 import android.util.Log;
 
-import com.dmc.mediaPickerPlugin.PickerActivity;
+import com.dmcbig.mediapicker.PickerActivity;
 // import com.dmcbig.mediapicker.PickerConfig;
 // import com.dmcbig.mediapicker.TakePhotoActivity;
 // import com.dmcbig.mediapicker.Media;

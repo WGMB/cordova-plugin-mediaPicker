@@ -1,4 +1,4 @@
-package com.dmcbig.mediapicker;
+package com.dmc.mediaPickerPlugin;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -11,7 +11,7 @@ import android.provider.MediaStore;
 import android.util.Base64;
 import android.util.Log;
 
-import PickerActivity;
+import com.dmc.mediaPickerPlugin.PickerActivity;
 // import com.dmcbig.mediapicker.PickerConfig;
 // import com.dmcbig.mediapicker.TakePhotoActivity;
 // import com.dmcbig.mediapicker.Media;
